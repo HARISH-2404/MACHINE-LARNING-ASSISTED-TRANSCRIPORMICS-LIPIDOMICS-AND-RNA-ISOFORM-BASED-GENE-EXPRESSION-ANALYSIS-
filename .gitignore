@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Results / large raw files
+results/*
+!results/.gitkeep
+data/raw/
+*.fastq
+*.fastq.gz
+*.bam
+*.cram
+*.sam
+*.vcf
+java/build/
+__pycache__/
+*.pyc

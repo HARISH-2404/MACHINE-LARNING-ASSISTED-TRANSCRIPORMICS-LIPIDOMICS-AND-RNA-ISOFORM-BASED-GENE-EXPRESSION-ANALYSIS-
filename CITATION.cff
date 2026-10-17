@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it and record the software versions used."
+title: "AI-Driven Multi-Omics Integration Pipeline"
+version: 1.0.0
+date-released: 2026-10-18
+authors:
+  - family-names: "Project"
+    given-names: "Contributors"
+license: MIT
